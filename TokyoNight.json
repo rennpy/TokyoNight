@@ -7,12 +7,12 @@
     },
     "background": {},
     "fonts": {
-        "ginto_bold": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-Bold.ttf",
-        "ginto_medium": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-Medium.ttf",
-        "ginto_regular": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-Regular.ttf",
-        "whitney_bold": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-Bold.ttf",
-        "whitney_medium": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-Medium.ttf",
-        "whitney_semibold": "https:\/\/github.com\/ukivie\/hojicha-theme\/raw\/main\/Comfortaa-SemiBold.ttf"
+        "ginto_bold": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-Bold.ttf",
+        "whitney_bold": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-Bold.ttf",
+        "ginto_regular": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-Regular.ttf",
+        "ginto_medium": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-SemiBold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-SemiBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/rennpy\/TokyoNight\/raw\/main\/CascadiaCode-Regular.ttf"
     },
     "simple_colors": {
         "mention_highlight": 681496170,
