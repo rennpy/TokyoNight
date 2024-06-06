@@ -1,12 +1,13 @@
 # TokyoNight v2
 Aliucord Theme inspired by the [TokyoNight.nvim](https://github.com/folke/tokyonight.nvim) colorscheme
 
+## Preview
+![1](https://files.catbox.moe/uyei7k.png)
+
 ### Why v2?
 There was a theme under the same name made back in 2021, it looks nothing like this one and is quite dated (you do not want to use it), though you can have a [screenshot](https://files.catbox.moe/4g977d.png)
 if you want to compare it to this for some reason.
 
-## Preview
-![1](https://files.catbox.moe/uyei7k.png)
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
 
