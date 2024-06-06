@@ -6,3 +6,4 @@ There was a theme under the same name made back in 2021, although it looks nothi
 if you want to compare it to this for some reason.
 
 ## Preview
+![1](https://files.catbox.moe/p25n9h.jpg)
