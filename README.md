@@ -1,5 +1,5 @@
 # TokyoNight v2
-Aliucord Theme inspired by the TokyoNight nvm colorscheme.
+Aliucord Theme inspired by the [TokyoNight.vim](https://github.com/folke/tokyonight.nvim) colorscheme
 
 ### Why v2?
 There was a theme under the same name made back in 2021, although it looks nothing like this one and is quite dated (you do not want to use it)
