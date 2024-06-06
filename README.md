@@ -35,7 +35,7 @@ General
 Avatar Status
 - Chat Status: Disabled
 - Enable Radial Status: Select all except for chat
-- Online Color: ```#8FE3FF```
+- Online Color: ```#9ECE6A```
 - Idle Color: ```#FFD98F```
 - DND Color: ```#8FE3FF```
 
