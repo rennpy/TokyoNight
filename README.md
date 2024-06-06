@@ -1,4 +1,4 @@
-# TokyoNight v2
+# TokyoNight (v2)
 Aliucord Theme inspired by the [TokyoNight.nvim](https://github.com/folke/tokyonight.nvim) colorscheme
 
 ## Preview
