@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0",
         "author": "cbani",
-        "name": "TokyoNight"
+        "name": "TokyoNight",
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/TokyoNight\/main\/TokyoNight.json"
     },
     "background": {},
     "fonts": {
