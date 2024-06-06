@@ -6,7 +6,7 @@ There was a theme under the same name made back in 2021, it looks nothing like t
 if you want to compare it to this for some reason.
 
 ## Preview
-![1](https://files.catbox.moe/p25n9h.jpg)
+![1](https://files.catbox.moe/uyei7k.png)
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
 
